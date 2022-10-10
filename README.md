@@ -15,6 +15,7 @@ tion(gephi) to find relationships among different characters and calligraphers o
 # Results to Show
 
 Poster: https://github.com/MinghoKwok/NUS_CommunityDetection/blob/main/Poster/SWS3001_%5BCLUSTER2-06%5D.pdf
+
 Slide: https://github.com/MinghoKwok/NUS_CommunityDetection/blob/main/Poster/Team06_M3_Presentation.pdf
 
 
