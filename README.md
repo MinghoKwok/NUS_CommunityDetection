@@ -1,6 +1,7 @@
 # NUS_CommunityDetection
 
-NUS SOC Summer Workshop   Jul. 2019 - Aug. 2019
+NUS SOC Summer Workshop   
+Jul. 2019 - Aug. 2019
 
 # Work
 
