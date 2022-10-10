@@ -12,8 +12,12 @@ different calligraphers’ work.
 * Applied community detection algorithms and got 4 clusters by parameter tuning, then used data visualiza-
 tion(gephi) to find relationships among different characters and calligraphers of Chinese calligraphy.
 
-# Visulization Results to Show
+# Results to Show
 
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/MinghoKwok/NUS_CommunityDetection/main/ResultWebPage/47_nodes.html#
+Poster: https://github.com/MinghoKwok/NUS_CommunityDetection/blob/main/Poster/SWS3001_%5BCLUSTER2-06%5D.pdf
+Slide: https://github.com/MinghoKwok/NUS_CommunityDetection/blob/main/Poster/Team06_M3_Presentation.pdf
+
+
+
 
 
